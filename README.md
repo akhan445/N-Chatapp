@@ -10,5 +10,8 @@ N-Chatapp is a real time web chat application for two way conversations. It allo
 
 Conversation in a group setting:
 
+![Alt Text](https://github.com/akhan445/N-Chatapp/blob/master/conversation.gif)
 
 Conversation with geolocation sharing:
+
+![Alt Text](https://github.com/akhan445/N-Chatapp/blob/master/geolocation.gif)
