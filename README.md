@@ -7,7 +7,7 @@ N-Chatapp is a real time web chat application for two way conversations. It allo
     
 # Demos
 
-You can access the live demo here: https://akhan445-node-chatapp.herokuapp.com/
+<!-- You can access the live demo here: https://akhan445-node-chatapp.herokuapp.com/ --!>
 
 Here are some demonstrations of features in the application:
 1. Group Chats
